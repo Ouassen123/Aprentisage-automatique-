@@ -1,5 +1,4 @@
-# Aprentisage-automatique-
-# SY19 - Apprentissage automatique (Machine Learning)
+#  - Apprentissage automatique (Machine Learning)
 
 Credits:   6 
 Cours:  2h/semaines 
